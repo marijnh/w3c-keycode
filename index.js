@@ -50,8 +50,7 @@ var keyCodes = module.exports = {
   219: "BracketLeft",
   220: "Backslash",
   221: "BracketRight",
-  222: "Quote",
-  229: "KeyQ"
+  222: "Quote"
 }
 
 for (var i = 0; i < 10; i++) {
